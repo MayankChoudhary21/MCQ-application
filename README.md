@@ -77,3 +77,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Author
 
 - **Mayank Choudhary**
+- **Venkatesh Indla**
